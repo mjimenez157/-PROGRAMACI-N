@@ -9,7 +9,7 @@ public class FigurasConCiclos {
         int opcion;
 
         do {
-            System.out.println("\n=== MENÚ DE FIGURAS ===");
+            System.out.println("\n MENÚ DE FIGURAS ");
             System.out.println("1. Figura creciente izquierda");
             System.out.println("2. Figura decreciente izquierda");
             System.out.println("3. Figura creciente derecha");
