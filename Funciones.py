@@ -34,7 +34,7 @@ def figura_cuatro():
 opcion = 0
 
 while opcion != 5:
-    print("\n=== MENÚ DE FIGURAS ===")
+    print("\n MENÚ DE FIGURAS ")
     print("1. Figura creciente izquierda")
     print("2. Figura decreciente izquierda")
     print("3. Figura creciente derecha")
